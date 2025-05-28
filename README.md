@@ -1,4 +1,4 @@
-# sql-data-warehouse-project
+# Data Warehouse and Analytics Project
 Building a modern data warehouse wit SQL Server, including ETL processes, data modeling and  analytics.
 
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
@@ -26,7 +26,7 @@ Data Analytics
 🛠️ Important Links & Tools:
 Everything is for Free!
 
-Datasets: Access to the project dataset (csv files).
+# Datasets: Access to the project dataset (csv files).
 SQL Server Express: Lightweight server for hosting your SQL database.
 SQL Server Management Studio (SSMS): GUI for managing and interacting with databases.
 Git Repository: Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
